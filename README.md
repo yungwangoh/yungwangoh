@@ -13,6 +13,9 @@
 ## Problem Solve
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfks1234)](https://solved.ac/qkfks1234/)
 
+## Project
+- 2022.08 ~ 2022.09 -> MBTI 고래 성격 테스트
+- 2022.11 ~ 진행중 -> 자취요리 SNS
 <!--
 **yungwangoh/yungwangoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
