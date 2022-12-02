@@ -1,14 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
-# GWANG-OH
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YGO&fontSize=90)
 
 ## 🤔 SKILL
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+<div>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/>
+</div>
+<br>
+<div>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+</div>
 
 ## Git Hub Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungwangoh&show_icons=true&theme=radical)
+
+## Use Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yungwangoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Problem Solve
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfks1234)](https://solved.ac/qkfks1234/)
