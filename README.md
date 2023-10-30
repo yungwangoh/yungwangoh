@@ -32,6 +32,7 @@
 - 2022.11 ~ 중단 -> 자취요리 SNS
 - 2023.04 ~ 2023.05 -> JSCODE 게시판 멘토링 프로젝트
 - 2023.07 ~ 09 -> 까페 결제시스템 MVP
+- 2023.11 ~ ing -> 까페 결제시스템 동시성 이슈 및 Redis를 이용한 분산 락, 캐싱 적용 중
 <!--
 **yungwangoh/yungwangoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
