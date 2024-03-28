@@ -32,8 +32,7 @@
 - 2022.08 ~ 2022.09 -> MBTI 고래 성격 테스트
 - 2022.11 ~ 중단 -> 자취요리 SNS
 - 2023.04 ~ 2023.05 -> JSCODE 게시판 멘토링 프로젝트
-- 2023.07 ~ 09 -> 까페 결제시스템 MVP 필수 로직 구현 완료.
-- 2023.10 ~ ing -> (최적화) 까페 결제시스템 동시성 이슈 및 Redis를 이용한 캐싱 적용, zSet을 통한 인기메뉴 구현 중
+- 2023.07 ~ 2024.03 -> 까페 결제시스템 프로젝트 
 <!--
 **yungwangoh/yungwangoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
