@@ -28,11 +28,6 @@
 ## Problem Solve
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkfks1234)](https://solved.ac/qkfks1234/)
 
-## Project
-- 2022.08 ~ 2022.09 -> MBTI 고래 성격 테스트
-- 2022.11 ~ 중단 -> 자취요리 SNS
-- 2023.04 ~ 2023.05 -> JSCODE 게시판 멘토링 프로젝트
-- 2023.07 ~ 2024.03 -> 까페 이커머스 프로젝트 
 <!--
 **yungwangoh/yungwangoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
